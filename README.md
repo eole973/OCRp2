@@ -1,10 +1,10 @@
 # OC Scraper
 extract book item to: "books.toscrape.com
 
-`P02_01_scraper.py` will extract book's data as in CSV file 
+`P2_01_scraper.py` will extract book's data as in CSV file 
 which be created in /CSV directory .
 
-`P02_02_cat_scraper.py` will extract book's data by category and create CSV file for each in /CSV directory.
+`P2_02_cat_scraper.py` will extract book's data by category and create CSV file for each in /CSV directory.
 
 book data :
 * product_page_url 
@@ -18,7 +18,7 @@ book data :
 * review_rating
 * image_url
 
-`P02_03_img_scarper.py` will extract all book cover and create an /image dir.
+`P2_03_img_scarper.py` will extract all book cover and create an /image dir.
 
 ### installation
 ```
