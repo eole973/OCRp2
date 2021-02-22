@@ -23,13 +23,13 @@ book data :
 ### installation
 ```
 $ python -m venv env
-$ pip install -r requirements.txt
 $ source env/bin/activate
+$ pip install -r requirements.txt
 ```
 
 ##### execute script 
 ```
-$ python P02_0*.py 
+$ python P2_0*.py 
 ```
 ##### quit
 at the end ``` $ deactivate``` 
